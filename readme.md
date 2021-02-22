@@ -10,5 +10,5 @@
 | ------------- |:-------------:|
 | 1. (Feb 19)     | Reverse Words     |
 | 2. (Feb 20)     | 2 Sum     |
-| 3. (Feb 21)     | Run Length Encoding    |
+| 3. (Feb 22)     | Run Length Encoding    |
 
