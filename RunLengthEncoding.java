@@ -7,7 +7,12 @@ public class RunLengthEncoding {
             char pre = input.charAt(i - 1);
             char cur = input.charAt(i);
             if(pre == cur){
-                counter ++;
+                if(counter == 9){ // improved logic
+                    sb.append(counter).append(pre);
+                    counter = 1;
+                }else{
+                    counter ++;
+                }
             }else {
                 sb.append(counter);
                 sb.append(pre);
@@ -22,11 +27,11 @@ public class RunLengthEncoding {
         RunLengthEncoding obj = new RunLengthEncoding();
 
         String inputs[] = {
-            "aaaaaaaaaaaaabbbbbbbbbbbbbbc", "aabbcc", "aaacccddd", "cccddddffffjjj"
+            "aaaaaaaaaaaaabbbbbbbbbbbbbbc", "aabbcc", "aaacccddd", "cccddddffffjjj", "AAAAAAAAAAAAABBCCCCDD"
         };
 
         String expectedOutputs[] = {
-            "13a14b1c","2a2b2c", "3a3c3d", "3c4d4f3j"
+            "13a14b1c","2a2b2c", "3a3c3d", "3c4d4f3j", "9A4A2B4C2D"
         };
 
         for(int i=0; i<inputs.length; i++){
