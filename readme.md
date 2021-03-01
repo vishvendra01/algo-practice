@@ -3,7 +3,7 @@
 ## Here I will try to solve one problem per day.
 ## I am aiming to have a 60 days streak.
 
-### Streak - _3 Days_
+### Streak - _1 Days_
 
 ### **Progress** 
 | Day  | Problem |
@@ -13,4 +13,5 @@
 | 3. (Feb 22)     | Run Length Encoding    |
 | 4. (Feb 23)     | Validate Subsequence |    |
 | 5. (Feb 24)     | Palindrone String |
+| 6. (Mar 1)     | MaxLength Of NonDecreasingSubArray |
 
