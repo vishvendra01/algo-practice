@@ -2,8 +2,8 @@
 ***
 #### Here I will try to solve one problem per day. </br> I am aiming to have a 60 days streak.
 
-#### Streak - _5 Days_ 
-:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: </br>
+#### Streak - _6 Days_ 
+:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: </br>
 :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
 :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
 :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
@@ -25,4 +25,5 @@
 | 8. (Mar 3)     | Remove duplicates from a linkedlist |
 | 9. (Mar 4)     | Find Loop in a linkedlist |
 | 10. (Mar 5)     | Check if array is monotonic |
+| 11. (Mar 6)     | Array Of Products |
 
