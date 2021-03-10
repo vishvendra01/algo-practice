@@ -2,9 +2,9 @@
 ***
 #### Here I will try to solve one problem per day. </br> I am aiming to have a 60 days streak.
 
-#### Streak - _8 Days_ 
+#### Streak - _9 Days_ 
 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: </br>
-:white_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
+:white_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
 :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
 :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
 :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
@@ -28,4 +28,5 @@
 | 11. (Mar 6)     | Array Of Products |
 | 12. (Mar 7)     | Binary Search |
 | 13. (Mar 9)     | Reverse Linkedlist |
+| 13. (Mar 10)     | Balanced Brackets |
 
