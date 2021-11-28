@@ -32,5 +32,6 @@
 | 14. (July 21)     | Missing Number |
 | 15. (Aug 7)     | Sort Array by frequency |
 | 16. (Nov 8)     | Array Of Products (O(n) solution) |
-| 16. (Nov 20)     | maximum subarray sum |
+| 17. (Nov 20)     | maximum subarray sum |
+| 18. (Nov 28)     | Longest Peak |
 
