@@ -3,13 +3,7 @@
 #### Here I will try to solve one problem per day. </br> I am aiming to have a 60 days streak.
 
 #### Streak - _1 Days_ 
-:large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
-:white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
-:white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
-:white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
-:white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
-:white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
-:white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: :white_circle: </br>
+1 -> 2 <br/>
 
 
 #### **Progress** 
